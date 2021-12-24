@@ -1,0 +1,86 @@
+ReactJS Application Contain Built in WebPack
+
+Webpack is asset bundler tool
+
+
+js1  100KB
++
+js2	100KB
++
+js3	100KB
++
+..
+.
+.
+.
+.
+.
+jsn
+ =
+Single JS  150KB
+
+Web Pack
+1. Bundle 
+	JS
+	CSS
+	Images
+2. Compress the file size
+
+npm start = local Development
+
+npm run build  (Production)
+
+ReactJS -->WebPack/Babel ---> Optimized/Compresed React App
+serve -s build  = Production
+	
+
+Webpack only work when you run the command
+
+When you decide the reactJS Application to deploy on internet
+npm run build
+
+The role of webpack is to 
+1. Compress the file
+2. To merge all js and css into single files
+
+
+Main Logic FIle for the ReactJS Application
+ 
+src/index.js
+
+
+ReactJS App are SPA Application
+
+public/index.html
+
+
+HTML Tags = COmponents
+
+
+There are Two Types of Coponent in react
+1. Functional Compoent.
+	 <App />
+2. Class Component
+	 <App />
+
+Functional Component is nothing but a simple regular Js Function
+
+
+JSX = Javascript and XML  JSX
+
+Functional Components Can be nested
+
+There are ways to export the functions 
+1. Default Export
+2. Named Export
+
+rfc = react functional component
+
+
+Assignment
+	Write a News with Nested React Functional Component
+
+	FIles
+
+
+https://timesofindia.indiatimes.com/india/who-blanket-booster-use-will-increase-vaccine-inequity/articleshow/88463646.cms

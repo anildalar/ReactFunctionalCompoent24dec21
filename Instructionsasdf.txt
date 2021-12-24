@@ -1,0 +1,100 @@
+Prerequisites
+
+https://www.youtube.com/playlist?list=PL_kVwOdi-YKRDx0wNnWIcT6POUwORJt1F
+
+
+1. HTML 5 
+2. CSS 3
+3. JAVASCRIPT  (ES5 vs ES6)
+
+ReactJS
++91-7999452711 
+You have to submit the daily ReactJs Assignment
+on My Whatsaap No
+
+8-10 Lakh/ Annum
+
+
+
+SPA (Single Page Application)
+
+HTML+CSS+JS  (Framework)--> ReactJS
+
+SPA Client Frameworks
+1. ReactJS  ---->   100KB  Facebook
+2. VueJS   ------>  80KB  Evan You
+
+3. AngularJS -----> 500KB  Google WOrks on Real DOM
+
+
+Google Trends
+
+1. Library file size
+2. Virtual DOM
+
+ReactJS works on Real DOM + Virtual (RAM) DOM
+
+VueJS works on Real DOM + Virtual (RAM) DOM
+
+AngularJS = works on Real DOM
+
+
+https://reactjs.org/
+
+https://www.w3schools.com/REACT/default.asp
+
+npm = Node Package Manager
+
+
+Requirement For ReactJS
+1. NodeJS
+2. create-react-app package installed  
+
+
+Download from npmjs.com
+	
+	npm install -g create-react-app
+
+boilerplate(Readymade) code reactjs
+
+
+VS Code Extention
+
+ES7 React/Redux/GraphQL/React-Native snippets
+dsznajder
+
+ReactJS Project is nothing but a NodeJs Project
+
+The Default Port For ReactJS Applications is 3000
+
+Go to Package.JSON
+
+npm start
+
+To Change the POrt No
+"scripts": {
+	"start": "SET PORT=4000 && react-scripts start",
+	...
+	...
+}
+
+
+The Very First File which execute when a react Application Launch
+src/index.js (Main Logic File)
+
+The Single Page which is used thoughout the React Application
+public/index.html
+
+<div id="root"></div>
+
+
+
+Ctrl +c = Ternimate
+
+ES6
+	Import Export 
+
+Components / HTML Elements
+<h1></h1>
+
+ReactJS Application Support Hot Reloading
