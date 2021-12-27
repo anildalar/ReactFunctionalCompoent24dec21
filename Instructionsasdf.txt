@@ -98,3 +98,62 @@ Components / HTML Elements
 <h1></h1>
 
 ReactJS Application Support Hot Reloading
+
+
+You can create Compoent BY USing 2 Techniquest
+1. RFC
+	React Functional COmpoent (Latest/Future)
+2. RCC
+	React Class Compoent (Deprecate / Outdated)
+
+CHild Parent Relationship between component
+
+
+
+Every Component have their own state
+State are used to store data
+States are like variables 
+
+States = JS Variable
+
+Props  = HTML Attributes
+
+initialState = initialData
+
+Passing Data from One Compoent to Another Compoent
+
+	data = [10]
+	Every Sentance should be defined at the top RFC
+	
+	A
+		B
+
+			C
+
+				D
+					E
+						Z.
+import DefaultImport from 'react'				
+import React from 'react'
+
+import { NamedImport } from 'react'
+	
+import { useState } from 'react'
+						F
+Syntax
+const [variableName, function] = useState(IndialValue)
+
+const [x, setX] = useState(10)
+
+Hook Varible
+
+<ComponentName propName="propValue"   />
+<B  name={x}  />
+
+
+
+
+
+
+
+
